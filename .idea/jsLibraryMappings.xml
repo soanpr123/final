@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/bootstrap, @types/bootstrap-3-typeahead, @types/bootstrap3-dialog, @types/express, @types/express-brute, @types/express-brute-memcached, @types/express-brute-mongo, @types/express-debug, @types/express-fileupload, @types/express-handlebars, @types/express-jsonschema, @types/express-mongo-sanitize, @types/express-myconnection, @types/express-mysql-session, @types/express-route-fs, @types/express-version-request, @types/mongodb, @types/mongodb-memory-server, @types/mongoose, @types/multer, @types/multer-gridfs-storage, @types/multer-s3, @types/node, @types/npm, @types/shortid}" />
+    <excludedPredefinedLibrary name="final/node_modules" />
+  </component>
+</project>

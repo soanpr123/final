@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/multer" level="application" />
+    <orderEntry type="library" name="@types/shortid" level="application" />
+    <orderEntry type="library" name="@types/node" level="application" />
+    <orderEntry type="library" name="@types/npm" level="application" />
+    <orderEntry type="library" name="@types/express-brute" level="application" />
+    <orderEntry type="library" name="@types/express-brute-memcached" level="application" />
+    <orderEntry type="library" name="@types/express-brute-mongo" level="application" />
+    <orderEntry type="library" name="@types/express" level="application" />
+    <orderEntry type="library" name="@types/express-debug" level="application" />
+    <orderEntry type="library" name="@types/express-fileupload" level="application" />
+    <orderEntry type="library" name="@types/express-handlebars" level="application" />
+    <orderEntry type="library" name="@types/express-jsonschema" level="application" />
+    <orderEntry type="library" name="@types/express-mongo-sanitize" level="application" />
+    <orderEntry type="library" name="@types/express-myconnection" level="application" />
+    <orderEntry type="library" name="@types/express-mysql-session" level="application" />
+    <orderEntry type="library" name="@types/express-route-fs" level="application" />
+    <orderEntry type="library" name="@types/express-version-request" level="application" />
+    <orderEntry type="library" name="@types/multer-gridfs-storage" level="application" />
+    <orderEntry type="library" name="@types/multer-s3" level="application" />
+    <orderEntry type="library" name="@types/bootstrap" level="application" />
+    <orderEntry type="library" name="@types/bootstrap-3-typeahead" level="application" />
+    <orderEntry type="library" name="@types/bootstrap3-dialog" level="application" />
+    <orderEntry type="library" name="@types/mongodb" level="application" />
+    <orderEntry type="library" name="@types/mongoose" level="application" />
+    <orderEntry type="library" name="@types/mongodb-memory-server" level="application" />
+  </component>
+</module>
